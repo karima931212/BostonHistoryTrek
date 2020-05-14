@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HistoricalPlaces/Model/PlaceResponse.swift"
+            timestampString = "514563400.824015"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "137"
+            endingLineNumber = "137"
+            landmarkName = "encode(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HistoricalPlaces/Utils/MyLocationHelper.swift"
+            timestampString = "514566412.095996"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "save()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HistoricalPlaces/Model/PlaceResponse.swift"
+            timestampString = "514563661.977448"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "177"
+            endingLineNumber = "177"
+            landmarkName = "==(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static HistoricalPlaces.PlaceModel.== infix (HistoricalPlaces.PlaceModel, HistoricalPlaces.PlaceModel) -&gt; Swift.Bool"
+                  moduleName = "HistoricalPlaces"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xmigc_wx/Desktop/%E9%A1%B9%E7%9B%AE/Map/app/v1/HistoricalPlaces/Model/PlaceResponse.swift"
+                  timestampString = "514567170.210501"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "177"
+                  endingLineNumber = "177"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static HistoricalPlaces.PlaceModel.== infix (HistoricalPlaces.PlaceModel, HistoricalPlaces.PlaceModel) -&gt; Swift.Bool"
+                  moduleName = "HistoricalPlaces"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/xmigc_wx/Desktop/%E9%A1%B9%E7%9B%AE/Map/app/v1/HistoricalPlaces/Model/PlaceResponse.swift"
+                  timestampString = "514567170.213614"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "177"
+                  endingLineNumber = "177"
+                  offsetFromSymbolStart = "163">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HistoricalPlaces/ViewControllers/PlaceDetailViewController.swift"
+            timestampString = "514564733.181296"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "goAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

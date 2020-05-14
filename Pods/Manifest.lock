@@ -1,0 +1,70 @@
+PODS:
+  - Alamofire (4.3.0)
+  - AlamofireObjectMapper (4.0.1):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 2.0)
+  - DropDown (2)
+  - DynamicColor (3.2.1)
+  - DZNEmptyDataSet (1.8.1)
+  - ImageSlideshow (1.1.0):
+    - ImageSlideshow/Core (= 1.1.0)
+  - ImageSlideshow/Core (1.1.0)
+  - ImageSlideshow/Kingfisher (1.1.0):
+    - ImageSlideshow/Core
+    - Kingfisher (~> 3.0)
+  - Kingfisher (3.5.0)
+  - Mapbox-iOS-SDK (3.4.1)
+  - MapboxDirections.swift (0.7.0):
+    - Polyline (~> 4.0)
+  - ObjectMapper (2.2.2)
+  - Polyline (4.0.0)
+  - Popover (1.0.3)
+  - SVProgressHUD (2.1.2)
+  - SwiftLocation (2.0.1)
+  - SwiftyJSON (3.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - AlamofireObjectMapper
+  - DropDown
+  - DynamicColor
+  - DZNEmptyDataSet
+  - ImageSlideshow
+  - ImageSlideshow/Kingfisher
+  - Mapbox-iOS-SDK (~> 3.4.1)
+  - MapboxDirections.swift (from `https://github.com/mapbox/MapboxDirections.swift.git`, branch `swift3`)
+  - Popover
+  - SVProgressHUD
+  - SwiftLocation
+  - SwiftyJSON (= 3.0.0)
+
+EXTERNAL SOURCES:
+  MapboxDirections.swift:
+    :branch: swift3
+    :git: https://github.com/mapbox/MapboxDirections.swift.git
+
+CHECKOUT OPTIONS:
+  MapboxDirections.swift:
+    :commit: 5384a42d8d18ff8e2e4520064f0bbc8da560c89d
+    :git: https://github.com/mapbox/MapboxDirections.swift.git
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  AlamofireObjectMapper: 842d2eed43a4d0593ff0110d54ac86a170c4519c
+  DropDown: 744784d9c9aa505100e942c16acd05430cbb2f0a
+  DynamicColor: 4786d650c69da6c3f2cbfe068348288ec4e5521f
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  ImageSlideshow: 99addbef1b718272598a07036270e819d03abc17
+  Kingfisher: 7c62087039d93d26c54c8dd9b0b588d2ce55cef6
+  Mapbox-iOS-SDK: 9c0d23e9a3784e6c9e45af4339898e4598b5b09b
+  MapboxDirections.swift: 62af6da47205a797de82be36641a26d0844ca99b
+  ObjectMapper: 9e385c2295bcc4e16eabbcfc85db801442bba545
+  Polyline: c6de7430bf6ff0bfff1f087343597b83b38fdb69
+  Popover: 7cf1377f251fcdeec5262727dc150b806444dfe8
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+  SwiftLocation: 3c66807be3cc511d6b3496fcccd7ba05d839f23b
+  SwiftyJSON: f57b2b44bc166617372d1c70773591fe9f0f5fd4
+
+PODFILE CHECKSUM: 940bc108daa18601df043e0db938431a7c1d91d2
+
+COCOAPODS: 1.2.0
